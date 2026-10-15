@@ -30,8 +30,8 @@
 
     <p>
 
-        Dalam keseharian, saya bertugas untuk mengerjakan proyek dan maintenance serta memberikan proof of concept
-        kepada calon pembeli.
+        Dalam keseharian, saya bertugas untuk mengerjakan tugas maintenance yang sudah di ada di dalam daftar list serta
+        melakukan pengecekan di setiap perangkat elekronik yang ada dikantor.
 
     </p>
 
@@ -54,8 +54,6 @@
         <li>Futsal</li>
 
         <li>Traveling Menggunakan Motor</li>
-
-        <li>Berkebun </li>
 
     </ul>
 

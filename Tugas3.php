@@ -26,8 +26,8 @@
 
             <section>
                 <h2>1. Pasta</h2>
-                <img src="https://images.immediate.co.uk/production/volatile/sites/30/2022/05/Pasta-alla-norma-87c54fc.jpg"
-                    alt="Hidangan Pasta Khas Italia" width="500">
+                <!-- Nama file disesuaikan jadi huruf kecil -->
+                <img src="images/pasta.jpg" alt="Hidangan Pasta Khas Italia" width="200">
                 <p>
                     Pasta adalah hidangan khas Italia yang sangat mendunia. Terbuat dari adonan tepung terigu dan air,
                     pasta disajikan dengan beragam saus seperti Carbonara, Bolognese, atau Pesto. Setiap kawasan di
@@ -37,8 +37,8 @@
 
             <section>
                 <h2>2. Koloseum (Colosseum)</h2>
-                <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Colosseo_2020.jpg/1280px-Colosseo_2020.jpg"
-                    alt="Bangunan Bersejarah Koloseum di Roma Italia" width="500">
+                <!-- Nama file disesuaikan jadi huruf kecil -->
+                <img src="images/colosseum.jpg" alt="Bangunan Bersejarah Koloseum di Roma Italia" width="200">
                 <p>
                     Koloseum adalah amfiteater megah yang terletak di pusat kota Roma dan menjadi ikon bersejarah
                     Italia. Bangunan bersejarah ini menawarkan pesona kejayaan Kekaisaran Roma dan menjadi tujuan utama
@@ -48,8 +48,8 @@
 
             <section>
                 <h2>3. Pizza Margherita</h2>
-                <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Pizza_Margherita_%28%29.JPG"
-                    alt="Pizza Margherita Khas Italia" width="500">
+                <!-- Spasi diganti dengan tanda hubung (-) -->
+                <img src="images/pizza-margherita.jpg" alt="Pizza Margherita Khas Italia" width="200">
                 <p>
                     Pizza Margherita adalah hidangan klasik asal Napoli yang terkenal dengan kombinasi sederhana namun
                     lezat: saus tomat, keju mozzarella segar, dan daun basil. Warna merah, putih, dan hijau pada pizza

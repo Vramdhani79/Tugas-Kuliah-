@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="id">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Buku Tamu - SCOBYSOUL</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h1>Form Buku Tamu & Pemesanan</h1>
+
+      <form class="card">
+        <div class="form-group">
+          <label for="nama">Nama Lengkap:</label>
+          <input
+            type="text"
+            id="nama"
+            name="nama"
+            placeholder="Masukkan nama Anda"
+            required
+          />
+        </div>
+
+        <div class="form-group">
+          <label for="email">Nomor WhatsApp / Email:</label>
+          <input
+            type="text"
+            id="email"
+            name="email"
+            placeholder="Contoh: 08123456789"
+            required
+          />
+        </div>
+
+        <div class="form-group">
+          <label for="layanan">Pilih Varian SCOBYSOUL:</label>
+          <select id="layanan" name="layanan">
+            <option value="focus-flow">
+              Focus & Flow (Pegagan & Buah Buni)
+            </option>
+            <option value="daily-restore">
+              Daily Restore (Kelor & Buah Gowok)
+            </option>
+            <option value="kombinasi">Paket Bundling (Kedua Varian)</option>
+          </select>
+        </div>
+
+        <div class="form-group">
+          <label for="pesan">Pesan / Catatan Tambahan:</label>
+          <textarea
+            id="pesan"
+            name="pesan"
+            rows="4"
+            placeholder="Tuliskan alamat pengiriman atau pertanyaan Anda..."
+          ></textarea>
+        </div>
+
+        <button
+          type="submit"
+          class="button button-full"
+          onclick="alert('Terima kasih telah mengisi buku tamu SCOBYSOUL!')"
+        >
+          Kirim Buku Tamu
+        </button>
+
+        <div class="link-back">
+          <a href="home.html">&larr; Kembali ke Halaman Utama</a>
+        </div>
+      </form>
+    </div>
+  </body>
+</html>
